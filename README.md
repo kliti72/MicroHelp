@@ -1,4 +1,3 @@
-# LEANGUAGE: ENGLISH: 
 
 # MicroAiuto
 
@@ -43,8 +42,8 @@ MicroAiuto is a mobile application that allows users to offer and receive small 
 
 This project is open source and intended for the benefit of the community. Contributions are welcome.
 
-
-# LEANGUAGE: ITALIAN: MicroAiuto
+italian translate
+# MicroAiuto
 
 MicroAiuto è un'applicazione mobile che permette agli utenti di offrire e ricevere piccoli aiuti nella propria comunità locale. L'obiettivo è creare una rete di supporto rapido e concreto, rafforzando la coesione sociale e facilitando la collaborazione tra vicini.
 
