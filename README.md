@@ -84,4 +84,4 @@ MicroAiuto è un'applicazione mobile che permette agli utenti di offrire e ricev
 
 ## Licenza
 
-Questo progetto è open source e pensato per il bene della comunità. Contribuire è benvenuto.
+Questo progetto è open source .
